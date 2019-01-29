@@ -244,6 +244,11 @@ header.masthead .intro-text .intro-heading {
   cursor: pointer;
 }
 
+#portfolio .portfolio-item .portfolio-link img {
+  width: 350px;
+  height: 260px;
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   position: absolute;
   width: 100%;
